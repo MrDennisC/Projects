@@ -723,8 +723,8 @@ while True:
                     # Input para controlo
                     input("Clique Enter para Continuar...")
 
-    # Se o Nº de Proceso for "p925" e a Password for "@EuMesmoDiretor"            
-    elif(NP == "p925" and PW == "@EuMesmoDiretor"):
+    # Se o Nº de Proceso for "p225" e a Password for "@EuMesmoDiretor"            
+    elif(NP == "p225" and PW == "@EuMesmoDiretor"):
             # Limpar o ecrã com os
             os.system("cls")
             # Mostrar mensagem de boas-vindas
